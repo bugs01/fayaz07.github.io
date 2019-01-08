@@ -8,7 +8,6 @@ http://www.templatemo.com/tm-498-stimulus
 
 body {
 	background: #ffffff;
-    font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
 	font-weight: 300;
     overflow-x: hidden;
@@ -383,7 +382,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../images/me.png') no-repeat;
 }
 
 #about .about-thumb,
